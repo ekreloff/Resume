@@ -1,5 +1,7 @@
-##Ethan Kreloff's Resume
-#I am not currently looking for a job, I just like to update this as I go!
+## Ethan Kreloff's Resume
+# I am not currently looking for a job, I just like to update this as I go!
+
+
 
 ## Credit - Original Author
 # Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
